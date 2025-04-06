@@ -1,0 +1,2 @@
+from .ContrastMethod import Contrast_Method_LUMAP
+from .ContrastMethod import Contrans_Method_Deep_Net
